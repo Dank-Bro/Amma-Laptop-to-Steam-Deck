@@ -1,16 +1,18 @@
-this is the path of folders for your reference.
+# Amma Laptop to Steam Deck
 
-usual upgrade
-	    RAM
-	    SSD
 
-MAJOR upgrade
-	    Dispaly (FPC HDMI)
-	    Controller 
-	    Battery
+## table of content
 
-Modifications
-    	Heat sink (thermal pads)
-    	Removal of ports
-    	charging port into USB C
-    	Adding power on button
+	- [parts you need]
+	- [Easy upgrade (ram & ssd)] (# Easy upgrade (ram & ssd))
+	- [Medium upgrade (Display, Conteller & Battery)]
+	- [Difficult upgrade (Heatsink, removing and adding ports & power button)]
+
+
+## Easy upgrade (ram & ssd)
+
+
+## Medium upgrade
+
+
+## Difficult upgrade
