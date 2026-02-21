@@ -1,1 +1,38 @@
-Copy paste code in terminal
+## 🔋 Enabling Conservation Mode on Lenovo E41 (Driver Method)
+
+On some Lenovo E41 variants, the **Conservation Mode** option does not appear by default in Lenovo Vantage.  
+In this case, installing the correct Lenovo power management drivers enables the feature.
+
+### ✅ Steps That Worked
+
+1. Uninstall Lenovo Vantage (if already installed).
+2. Download and install the following from Lenovo Support:
+   - **Lenovo Energy Management Driver**
+   - **Lenovo Power Management Driver**
+   - **Lenovo ACPI / Hotkey Driver**
+3. Restart the laptop.
+4. Reinstall **Lenovo Vantage** from the Microsoft Store.
+5. Open Lenovo Vantage → Device → Power.
+6. Enable **Conservation Mode**.
+
+After enabling, the battery will stop charging at around **55–60%**.
+
+---
+
+### 📌 Why This Works
+
+Some Lenovo E41 models hide the battery threshold option unless:
+- The correct ACPI power driver is installed
+- The embedded controller communicates properly with Lenovo Vantage
+
+Installing the proper drivers restores that functionality.
+
+---
+
+### ⚠️ Note
+
+- Feature availability depends on BIOS version.
+- Make sure your BIOS is updated to the latest stable version.
+- Do not install random third-party battery limiter tools.
+
+This method is confirmed working on supported Lenovo E41 variants.
