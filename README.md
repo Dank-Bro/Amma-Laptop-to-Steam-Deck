@@ -4,12 +4,12 @@
 ## table of content
 
 	- [parts you need]
-	- [Easy upgrade] (#Easy upgrade)
+	- [Easy upgrade] (#Easy_upgrade)
 	- [Medium upgrade (Display, Conteller & Battery)]
 	- [Difficult upgrade (Heatsink, removing and adding ports & power button)]
 
 
-## Easy upgrade (ram & ssd)
+## Easy_upgrade
 
 
 ## Medium upgrade
