@@ -1,18 +1,30 @@
 # Amma Laptop to Steam Deck
 
+This project is about transforming the Amma Laptop into a Steam Deck–style handheld gaming device.
 
-## table of content
+And the best part? It’s much easier than most people think.
 
-	- [parts you need]
-	- [Easy upgrade] (#Easy_upgrade)
-	- [Medium upgrade (Display, Conteller & Battery)]
-	- [Difficult upgrade (Heatsink, removing and adding ports & power button)]
+If you're planning to build this and complete it successfully, remember the **Two I’s**:
 
+- **Interest** – You should genuinely enjoy the process.
+- **Involvement** – You must be ready to fully commit and put in the effort.
 
-## Easy_upgrade
-
-
-## Medium upgrade
+With these two, you can absolutely make it happen.
 
 
-## Difficult upgrade
+## 📑 Table of Contents
+
+- [Parts You Need](#parts-you-need)
+- [Easy Upgrade](#easy-upgrade)
+- [Medium Upgrade (Display, Controller & Battery)](#medium-upgrade-display-controller--battery)
+- [Difficult Upgrade (Heatsink, Ports & Power Button Mod)](#difficult-upgrade-heatsink-ports--power-button-mod)
+
+
+## 🛠 Parts You Need
+
+## 🟢 Easy Upgrade
+
+## 🟡 Medium Upgrade 
+
+## 🔴 Difficult Upgrade 
+
