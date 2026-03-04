@@ -26,10 +26,10 @@ With these two, you can absolutely make it happen.
 
 Exact componente used for my project
 
-- Lenovo E41(amma laptop-DDR3L) motherboard
+- Lenovo E41-15(amma laptop-DDR3L) motherboard
 - 7 inch IPS touch raspberry pi display (1200x600)
 - Telescopic controller (Easysmx M05)
-- RAM (----------8gb DDR3L 1600mhz)
+- RAM (Sk hynix 8gb DDR3L 1600mhz)
 - SSD (kingston gen4 2230 NVME 128gb)
 - 8gb SD card
 - a+e key to m.2 ssd converter
